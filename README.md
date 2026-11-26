@@ -1,8 +1,8 @@
 
-# hicig-2024-cs-020
+# hicig-2024-cse-089
 
-- Name: Muhammad Umair Shahid
-- Registration number: 2024-cs-020
+- Name: Talal Ahmad
+- Registration number: 2024-cse-089
 - Toolchain: C++
 
 
